@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New ArchiMate View"
+    id="id-60e4b7b82b0a4b1e979db5dc7371b8e0">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-8a4cb5bb1b274046b1a45d84ccd601a1">
+    <bounds
+        x="72"
+        y="48"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-27372a982c7f4e248eefd6143e62f30f.xml#id-27372a982c7f4e248eefd6143e62f30f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c3a82e46a3ee4bd097fa806f9470acfe">
+    <bounds
+        x="252"
+        y="48"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-3803c5b66f994540a6591782c4386524.xml#id-3803c5b66f994540a6591782c4386524"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e361ae2a770e49b1af1d90dbc856a6f4">
+    <bounds
+        x="408"
+        y="48"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-78a7322920cc4c17ba409fd575e8ad0c.xml#id-78a7322920cc4c17ba409fd575e8ad0c"/>
+  </children>
+</archimate:ArchimateDiagramModel>
