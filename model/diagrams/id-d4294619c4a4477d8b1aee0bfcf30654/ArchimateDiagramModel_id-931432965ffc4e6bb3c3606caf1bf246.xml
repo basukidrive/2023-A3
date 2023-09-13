@@ -53,7 +53,8 @@
         id="id-d48fdf5680cf4d35bd60d0108a1cd694"
         targetConnections="id-e032efa71f2b49d7bbec2f5a7104c669"
         textAlignment="1"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="12"
           y="36"
@@ -68,7 +69,8 @@
         id="id-993ff471a80f49ab9423852a980862be"
         targetConnections="id-81f9e5a4a9f54858aab71435a6283927"
         textAlignment="1"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="264"
           y="36"
@@ -83,7 +85,8 @@
         id="id-c93569cba79543d0915841714d4362f4"
         targetConnections="id-4401388be58e4d16b24a9955fcbfabc5"
         textAlignment="1"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="12"
           y="192"
@@ -98,7 +101,8 @@
         id="id-4afec4f570c84a58953733cad99f2ead"
         targetConnections="id-bdfb3aad8f7c45ea8ae1310375ff2184"
         textAlignment="1"
-        textPosition="1">
+        textPosition="1"
+        type="1">
       <bounds
           x="264"
           y="192"
