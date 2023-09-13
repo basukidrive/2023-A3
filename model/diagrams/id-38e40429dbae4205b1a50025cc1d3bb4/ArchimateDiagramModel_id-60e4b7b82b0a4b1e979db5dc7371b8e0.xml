@@ -339,7 +339,7 @@
       targetConnections="id-2b09180193d54a3ea90efcd53720ef4c">
     <bounds
         x="552"
-        y="291"
+        y="261"
         width="133"
         height="73"/>
     <archimateElement
@@ -352,7 +352,7 @@
       targetConnections="id-01d9d1efdd554c40ae5b5f7aec9fc49b">
     <bounds
         x="552"
-        y="384"
+        y="348"
         width="133"
         height="73"/>
     <archimateElement
